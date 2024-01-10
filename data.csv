@@ -1,0 +1,366 @@
+Issue Type,Issue key,Issue id,Status,Time Spent,Original estimate,Labels,Labels,Assignee,Assignee Id,Inward issue link (Blocks),Inward issue link (Blocks),Inward issue link (Blocks),Inward issue link (Blocks),Inward issue link (Blocks),Inward issue link (Blocks),Outward issue link (Blocks),Outward issue link (Blocks),Inward issue link (Cloners),Inward issue link (Cloners),Outward issue link (Cloners),Inward issue link (Problem/Incident),Inward issue link (Problem/Incident),Outward issue link (Problem/Incident),Outward issue link (Problem/Incident),Outward issue link (Problem/Incident),Outward issue link (Problem/Incident),Outward issue link (Problem/Incident),Outward issue link (Problem/Incident),Outward issue link (Problem/Incident),Inward issue link (Relates),Inward issue link (Relates),Outward issue link (Relates),Summary
+Bug,REP-437,16048,Done,3600,,,,Pablo Pietraroia,6231e2308c349300687c6448,,,,,,,,,,,,REP-129,,,,,,,,,,,,[Admin - Layout and components] - The user account icon is not displayed when the user is logged in the super admin dashboard
+Story,REP-200,15502,To Do,,36000,,,,,,,,,,,,,,,,,,,,,,,,,,,,[BACK] Fees and multi payments
+Story,REP-201,15503,To Do,,57600,,,,,,,,,,,,,,,,,,,,,,,,,,,,[BACK] Stripe Master account configuration
+Story,REP-202,15504,To Do,,64800,,,,,,,,,,,,,,,,,,,,,,,,,,,,[BACK] Stripe payment intent creation
+Story,REP-322,15820,To Do,,21600,,,,,,,,,,,,,,,,,,,,,,,,,,,,[Cases]  Approve/Decline
+Story,REP-326,15824,To Do,,21600,,,,,,,,,,,,,,,,,,,,,,,,,,,,[Cases] Client case detail
+Story,REP-324,15822,To Do,,21600,,,,,,,,,,,,,,,,,,,,,,,,,,,,[Cases] Delete
+Story,REP-328,15826,Done,28800,28800,,,Mateo Carriquí,620794148df9a2007190078b,,,,,,,,,,,,,,,,,,,,,,,,[Cases] Delete case
+Story,REP-135,15422,To Do,,28800,,,,,REP-339,,,,,,,,,,,,,,,,,,,,,,,[Cases] List client cases
+Story,REP-339,15841,Done,42300,28800,,,Gonzalo Torterolo,5b10189cba20a25bfcacf8db,,,,,,,REP-135,,,,,,,,,,,,,,,,,[Cases] List client cases on admin pannel
+Story,REP-325,15823,To Do,,21600,,,,,,,,,,,,,,,,,,,,,,,,,,,,[Cases] Refund
+Story,REP-329,15827,To Do,,43200,,,,,,,,,,,,,,,,,,,,,,,,,,,,[Cases] Refund case
+Bug,REP-253,15565,Done,3900,,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,,,,,REP-248,REP-121,REP-125,,,,,,,,,,,[Client - Account Settings] - The backend validation message for invalid characters is not treated in the frontend
+Bug,REP-254,15566,Done,3900,,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,,,,,,REP-125,,,,,,,,,,,,[Client - Account Settings] - UI issues
+Bug,REP-280,15694,Done,1800,,,,Claudio Uslenghi,557058:2129d54f-e8fa-4d42-920c-acde714624a8,,,,,,,REP-167,,,,,,,,,,,,,,,,,[Client - Custom Plan - Step 2 Customs] - The options of the step 2 are not being added in the total/subtotal price of the plan
+Bug,REP-347,15849,Done,6000,,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,,,,,,REP-189,,,,,,,,,,,,[Client - Custom Plan - Step 4 Caskets and Urns] - When the names of the caskets/urns product are too long it overlaps the price in the list 
+Bug,REP-310,15797,Done,1500,,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,REP-189,,,,,,,,,,,,,,,,,"[Client - Custom Plan - Step 4 Caskets and Urns] - The ""Personalization"" option is missing in the casket/urn preview products"
+Bug,REP-309,15796,Done,6900,,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,REP-189,,,,,,,,,,,,,,,,,[Client - Custom Plan - Step 4 Caskets and Urns] - The casket/urn selection is not erased after changing the burial type
+Bug,REP-308,15795,Done,5100,,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,REP-189,,,,,,,,,,,,,,,,,[Client - Custom Plan - Step 4 Caskets and Urns] - The casket/urn step is not updated when the burial type is removed from the plan price list
+Bug,REP-307,15794,Done,6900,,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,REP-189,,,,,,,,,,,,,,,,,[Client - Custom Plan - Step 4 Caskets and Urns] - The casket/urn step is not updated when a casket/urn is in the preview and the burial type is changed
+Bug,REP-306,15793,To Do,6600,,,,,,,,,,,,,,,,,REP-189,,,,,,,,,,,,[Client - Custom Plan - Step 4 Caskets and Urns] - There should be a general label or a specific one in the form when selecting the different burial types
+Bug,REP-337,15838,Done,7800,,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,REP-190,,,,,,,,,,,,,,,,,[Client - Custom Plan - Step 5 Flowers] - All the flowers of the same type displayed in the price list cannot be deleted at the same time when the user doesn't want to delete them all
+Bug,REP-338,15839,Done,600,,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,,,,,,REP-190,,,,,,,,,,,,[Client - Custom Plan - Step 5 Flowers] - The flowers product should be displayed in pairs (mobile)
+Bug,REP-336,15837,Done,8700,,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,REP-190,,,,,,,,,,,,,,,,,[Client - Custom Plan - Step 5 Flowers] - When several repeated flowers are selected some of them cannot be deleted from the price list
+Bug,REP-281,15712,Done,1800,,,,Claudio Uslenghi,557058:2129d54f-e8fa-4d42-920c-acde714624a8,,,,,,,REP-186,,,,,,,,,,,,,,,,,[Client - Custom Plan - Step 6 Transportation] - It is possible to navigate to the next step without a required option selected
+Story,REP-274,15626,Done,63600,,Improvement,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,,,,,,,,REP-368,,,,,,,,,,[Client - Custom Plan Layout] - The checkmark in the wizard steps is not displayed from the Step 3 Venue until the end
+Bug,REP-265,15604,Done,4500,,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,,,,,,REP-185,,,,,,,,,,,,[Client - Custom Plan Step 3 Venue] UI Issues
+Bug,REP-368,15937,Done,6300,,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,,,,,,REP-274,,,,,,,,,,,,[Client - Custom Plan] - The toast messages are cut on mobile viewport
+Bug,REP-252,15564,Done,3600,,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,,,,,,,,,,,,,,,,,,[Client - Log out] - The log out option is not working in Desktop
+Bug,REP-353,15871,To Do,1800,,,,,,,,,,,,,,,,,,,,,,,,,,,,,[Client - Search Results] - UI issues in Safari/Chrome browsers
+Bug,REP-352,15870,To Do,900,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[Client - User Account] - The ""logout"" and ""settings"" options are not working in the Safari browser"
+Bug,REP-238,15540,Done,900,,,,,,,,,,,,,,,,,,,,,,,,,,,,,[Client landing page - desktop] Update laptop image
+Bug,REP-237,15539,Done,900,,,,,,,,,,,,,,,,,REP-102,,,,,,,,,,,,[Client landing page] Design team need to update laptop image
+Bug,REP-115,15402,Done,6600,,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,,,,,,,,,,,,,,,,,,[Client Landing page] First section - UI details
+Bug,REP-116,15403,Done,17700,,,,Federico Alvarez,5d56ea7ec6b9320d9ea5ebf3,,,,,,,,,,,,,,,,,,,,,,,,[Client Landing page] First section - When the page loads the image of the first section blinks
+Bug,REP-245,15554,Done,900,,,,Claudio Uslenghi,557058:2129d54f-e8fa-4d42-920c-acde714624a8,,,,,,,,,,,,,,,,,,,,,,,,"[Client Login] - Don't have ""a provider"" account text is being displayed when the client is in the login view"
+Bug,REP-255,15568,Done,2100,,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,,,,,,REP-125,,,,,,,,,,,,[Client/Provider - Account Settings] - The border of the account name field doesn't turn to red color when incorrect values are validated
+Bug,REP-292,15762,To Do,900,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[Client/Provider - Landing page] - When the user goes to the landing page, it opens simulating that is already logged in"
+Story,REP-206,15508,To Do,,64800,,,,,,,,,,,REP-207,REP-208,,,,,,,,,,,,,,,,[Client] [Front] My Credit Cards Page
+Story,REP-208,15510,To Do,,28800,,,,,REP-207,REP-206,,,,,,,,,,,,,,,,,,,,,,[Client] [Front] My Credit Cards Page - Extend service request flow
+Story,REP-207,15509,To Do,,43200,,,,,REP-206,,,,,,REP-208,,,,,,,,,,,,,,,,,[Client] [Front] My Credit Cards Page - Integration with backend
+Bug,REP-384,15960,Done,1800,,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,REP-378,,,,,,,,,,,,,,,,,[Custom Plan - Step 4 Caskets and Urns] - Error 404 when loading the caskets
+Bug,REP-398,15984,To Do,900,,,,,,,,,,,,,,,,,,,,,,,,,,,,REP-354,"[Custom Plan - Step 4 Caskets and Urns] - It is possible to select the same ""Design interior"" values for the different variants"
+Bug,REP-397,15983,To Do,900,,,,,,,,,,,,,,,,,,,,,,,,,,,,REP-354,[Custom Plan - Step 4 Caskets and Urns] - The Personalization options are not disable in the caskets and urns when they are not checked in the products from the provider side
+Bug,REP-399,15985,To Do,900,,,,,,,,,,,,,,,,,,,,,,,,,,,,REP-354,"[Custom Plan - Step 4 Caskets and Urns] - Weird behavior in the ""price"" and design exterior/interior"" values when interacting with the caskets and urn variants"
+Bug,REP-385,15961,Done,2400,,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,REP-378,,,,,,,,,,,,,,,,,"[Custom Plan - Step 4 Caskets and Urns] - When selecting ""Cremation"" burial type and clicking on ""Caskets and Urns"" step, no query is triggered for the ""urn"" products"
+Bug,REP-386,15963,To Do,,,,,Raul Velazquez,5d9748857a6d950c289e0444,,,,,,,,,,,,REP-378,,,,,,,,,,,,[Custom Plan - Step 5 Flowers] - The price is not displayed in the flowers products
+Bug,REP-382,15958,Done,3600,,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,REP-188,,,,,,,,,,,,,,,,,"[Custom Plan - Step 8 Extras] - Error 404 when trying to access the ""product/other"" endpoint"
+Bug,REP-393,15977,To Do,,,,,Claudio Uslenghi,557058:2129d54f-e8fa-4d42-920c-acde714624a8,,,,,,,,,,,,REP-188,,,,,,,,,,,,"[Custom Plan - Step 8 Extras] - It is not possible to unselect an ""Extra"" product by clicking on the checkbutton"
+Bug,REP-383,15959,Done,3300,,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,REP-188,,,,,,,,,,,,,,,,,"[Custom Plan - Step 8 Extras] - No ""extra"" services are displayed when available and a ""cosmetic"" service validation message is shown"
+Bug,REP-394,15978,Done,1800,,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,,,,,,REP-188,,,,,,,,,,,,"[Custom Plan - Step 8 Extras] - The ""Extra"" services are not being hoverable"
+Bug,REP-392,15976,Done,2400,,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,REP-188,,,,,,,,,,,,,,,,,"[Custom Plan - Step 8 Extras] - The price of the ""Extra"" products is not integrated in the step from the provider products"
+Bug,REP-433,16044,Done,,,,,Pablo Pietraroia,6231e2308c349300687c6448,,,,,,,REP-110,,,,,,,,,,,,,,,,,[Funeral Home - Client [MOBILE] [DESKTOP] - Application error: a client-side exception has occurred when closing operating hours in the provider side
+Bug,REP-435,16046,Done,3600,,,,Pablo Pietraroia,6231e2308c349300687c6448,,,,,,,,,,,,REP-110,,,,,,,,,,,,[Funeral Home - Client [MOBILE] [DESKTOP] - Some atoms of the view are not ergonomically displayed
+Bug,REP-430,16041,Done,3600,,,,Pablo Pietraroia,6231e2308c349300687c6448,,,,,,,REP-110,,,,,,,,,,,,,,,,,"[Funeral Home - Client [MOBILE] [DESKTOP] - The ""Culture"" values should be displayed in the specialization feature"
+Bug,REP-429,16040,Done,3600,,,,Pablo Pietraroia,6231e2308c349300687c6448,,,,,,,REP-110,,,,,,,,,,,,,,,,,"[Funeral Home - Client [MOBILE] [DESKTOP] - The ""Religion"" values should be displayed in a tooltip in the specialization feature"
+Bug,REP-434,16045,Done,3600,,,,Pablo Pietraroia,6231e2308c349300687c6448,,,,,,,REP-110,,,,,,,,,,,,,,,,,[Funeral Home - Client [MOBILE] [DESKTOP] - The Provider profile image is not displayed as default image in the Funeral Home page provider view
+Bug,REP-432,16043,Done,3600,,,,Pablo Pietraroia,6231e2308c349300687c6448,,,,,,,REP-110,,,,,,,,,,,,,,,,,[Funeral Home - Client [MOBILE] [DESKTOP] - The primary search filters are not displayed on top of the Funeral Home page
+Bug,REP-428,16039,To Do,,,,,,,,,,,,,,,,,,,,REP-110,,,,,,,,,,"[Funeral Home - Client [MOBILE] [DESKTOP] - The services of the ""Provider"" are not coming from the backend to displayed them in the Funeral Home view"
+Bug,REP-431,16042,Done,3600,,,,Pablo Pietraroia,6231e2308c349300687c6448,,,,,,,,,,,,REP-110,,,,,,,,,,,,[Funeral Home - Client [MOBILE] [DESKTOP] - UI Issues in the map section
+Bug,REP-436,16047,To Do,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REP-110,"[Funeral Home - Client [MOBILE] [DESKTOP] - When the provider is ""Saved"" in the Funeral Home page, is not displayed as a ""Saved provider"" in the client dashboard"
+Story,REP-378,15952,Done,62100,,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,REP-384,REP-385,,,,,,,,,,,,REP-386,,,,,,,,,,[Integration] Custom Plan - Caskets and Flowers
+Story,REP-61,15346,BLOCKED,,7200,need-refinement,,,,,,,,,,,,,,,,,,,,,,,,,,,[INTEGRATION] List and show Resources
+Story,REP-107,15392,To Do,,28800,need-refinement,,,,,,,,,,,,,,,,,,,,,,,,,,,[INTEGRATION] Preview Funeral Home
+Story,REP-84,15369,Done,56100,28800,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,REP-93,,,,,,,,,,REP-80,,,REP-171,REP-172,REP-232,REP-233,,,,,,,[INTEGRATION] Profile
+Story,REP-168,15457,BLOCKED,,21600,,,,,REP-166,,,,,,,,,,,,,,,,,,,,,,,[Integration] Save Custom Plan
+Story,REP-318,15816,To Do,,57600,,,,,REP-327,REP-154,,,,,,,,,,,,,,,,,,,,,,[Legal Document] Edit
+Story,REP-154,15443,To Do,,28800,Improvement,,,,REP-327,,,,,,REP-318,,,,,,,,,,,,,,,,,[Legal Document] List
+Story,REP-327,15825,Done,16200,43200,,,Mateo Carriquí,620794148df9a2007190078b,,,,,,,REP-154,REP-318,,,,,,,,,,,,,,,,[Legal Document] List and edit
+Story,REP-319,15817,To Do,,57600,,,,,,,,,,,,,,,,,,,,,,,,,,,,[Legal Document] Preview
+Bug,REP-445,16059,To Do,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REP-130,[Login [Frontend] [Integration] - The login button is being displayed in the Login view
+Bug,REP-446,16060,To Do,,,,,,,,,,,,,,,,,,,,,,,,,,,,,REP-130,[Login [Frontend] [Integration] - The validation for invalid data is only displayed the first time
+Story,REP-412,15999,Done,4200,,,,Mateo Carriquí,620794148df9a2007190078b,,,,,,,,,,,,,,,,,,,,,,,,[Plan] Get active plans by provider
+Story,REP-391,15975,To Do,,,,,Claudio Uslenghi,557058:2129d54f-e8fa-4d42-920c-acde714624a8,,,,,,,,,,,,,,,,,,,,,,,,[Plan] Update plan business rules
+Bug,REP-415,16002,Done,4500,,,,Mateo Carriquí,620794148df9a2007190078b,,,,,,,REP-261,,,,,,,,,,,,,,,,,[Plans - Add plan] - Error 500 when creating a plan with products and services [Backend]
+Bug,REP-418,16019,Done,600,,,,,,,,,,,,REP-261,,,,,,,,,,,,,,,,,[Plans - Add plan] - It is possible to add more products when the provider selects the maximum number of products to be added
+Bug,REP-362,15928,Done,30600,,,,Martin Nieves,712020:b1aab85d-227e-4049-9918-b8f16a4365e2,,,,,,,REP-210,,,,,,,,,,,,,,,,,"[Plans - Add plan] - The ""Price of Plan"" field is missing in Add Plan view"
+Bug,REP-406,15992,To Do,600,,,,,,,,,,,,,,,,,,,,,,,,,,,,REP-354,[Plans - Add plan] - The last service to be selected from the list is not completely displayed
+Bug,REP-417,16004,Done,2100,,,,Martin Nieves,712020:b1aab85d-227e-4049-9918-b8f16a4365e2,,,,,,,REP-261,,,,,,,,,,,,,,,,,[Plans - Add plan] - The products added in a plan are not displayed when the plan is in the list view
+Bug,REP-419,16020,Done,900,,,,Martin Nieves,712020:b1aab85d-227e-4049-9918-b8f16a4365e2,,,,,,,REP-261,,,,,,,,,,,,,,,,,"[Plans - Add plan] - When adding products to the plan, the price is not displayed in the products list"
+Bug,REP-414,16001,Done,4500,,,,Martin Nieves,712020:b1aab85d-227e-4049-9918-b8f16a4365e2,,,,,,,REP-261,,,,,,,,,,,,,,,,,"[Plans - Add plan] - When adding products, the ""caskets"" are automatically repeated after selecting them for the first time"
+Bug,REP-413,16000,Done,900,,,,Martin Nieves,712020:b1aab85d-227e-4049-9918-b8f16a4365e2,,,,,,,,,,,,REP-261,,,,,,,,,,,,[Plans - Add plan] - When the list of the products is too long the last one is not completely displayed
+Bug,REP-416,16003,Done,,,,,Martin Nieves,712020:b1aab85d-227e-4049-9918-b8f16a4365e2,,,,,,,REP-261,,,,,,,,,,,,,,,,,[Plans - Add plan] - Wrong validation message when adding a plan that already exists
+Bug,REP-366,15933,Done,44100,,,,Martin Nieves,712020:b1aab85d-227e-4049-9918-b8f16a4365e2,,,,,,,REP-211,,,,,,,,,,,,,,,,,[Plans - Edit plan] - It is not possible to add more services in the edit view
+Bug,REP-365,15932,Done,18000,,,,Martin Nieves,712020:b1aab85d-227e-4049-9918-b8f16a4365e2,,,,,,,REP-211,,,,,,,,,,,,,,,,,[Plans - Edit plan] - It is not possible to edit a plan due to an error 500
+Bug,REP-407,15993,To Do,1200,,,,,,,,,,,,,,,,,,,,,,,,,,,,REP-354,[Plans - Preview plan] - The preview of the plan is not consistent with the plan information 
+Bug,REP-409,15996,Done,1800,,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,REP-379,,,,,,,,,,,,,,,,,[Product - delete product variants] - Error 404 when saving a product after deleting the variant by default
+Story,REP-287,15743,To Do,72900,,Improvement_notin_CR_and_EST,,Claudio Uslenghi,557058:2129d54f-e8fa-4d42-920c-acde714624a8,,,,,,,,,,,,,,,,,,,,,,,,[Product] Update product business rules
+Bug,REP-370,15939,Done,5400,,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,REP-193,,,,,,,,,,,,,,,,,"[Products - Add product] - Error 400 when adding a product without any value in the ""Personalization"" variant field"
+Bug,REP-369,15938,Done,7200,,,,,,,,,,,,REP-193,,,,,,,,,,,,,,,,,[Products - Add product] - It is possible to add a product variant with invalid data in the SKU field
+Bug,REP-400,15986,To Do,600,,,,,,,,,,,,,,,,,,,,,,,,,,,,REP-354,[Products - Add product] - The images of the variants are not displayed in the general products list
+Bug,REP-372,15941,To Do,900,,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,,,,,,REP-193,,,,,,,,,,,,[Products - Add product] - UI issues in the validation messages for required fields
+Bug,REP-371,15940,Done,4500,,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,REP-193,,,,,,,,,,,,,,,,,[Products - Add product] - Undefined error message is displayed when adding a product without variants
+Bug,REP-405,15991,To Do,1200,,,,,,,,,,,,,,,,,,,,,,,,,,,,REP-354,"[Products - Add/Edit product] - It is not possible to add more than 3 ""Personalization"" options"
+Bug,REP-404,15990,Done,1500,,,,Claudio Uslenghi,557058:2129d54f-e8fa-4d42-920c-acde714624a8,,,,,,,,,,,,,,,,,,,,,,,REP-354,"[Products - Add/Edit product] - The label for the ""Price of Product"" is displaying the value ""Price of Service"""
+Bug,REP-402,15988,To Do,1200,,Improvement_notin_CR_and_EST,,,,,,,,,,,,,,,,,,,,,,,,,,REP-354,[Products - Add/Edit product] Inconsistencies coming from the design in the Exterior/Interior design values displayed in the variants list
+Bug,REP-374,15944,Done,1800,,,,,,,,,,,,REP-194,,,,,,,,,,,,,,,,,[Products - Edit product] - It is possible to edit a product variant with invalid data in the SKU field
+Bug,REP-375,15945,Done,1200,,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,REP-194,,,,,,,,,,,,,,,,,[Products - Edit product] - When editing the “Personalization“ field in the product variant the change is not saved if the field is unchecked.
+Bug,REP-401,15987,To Do,900,,,,,,,,,,,,,,,,,,,,,,,,,,,,REP-354,"[Products - List product] - The ""Interior material"" of the casket variants is displaying the material for the ""Urns"" in the products list"
+Bug,REP-403,15989,To Do,900,,,,,,,,,,,,,,,,,,,,,,,,,,,,REP-354,"[Products - List product] - The icon for the ""colorful"" value is not taken the proper color in the different products list"
+Bug,REP-373,15943,Done,17400,,,,Pablo Pietraroia,6231e2308c349300687c6448,,,,,,,REP-243,,,,,,,,,,,,,,,,,[Products - List products] - Missing information in the products list tables
+Bug,REP-249,15560,Done,3300,,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,,,,,,REP-121,,,,,,,,,,,,[Provider - Account Settings] - Emails with invalid format are allowed when editing the Provider account.
+Bug,REP-248,15559,Done,3000,,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,,,REP-253,,,REP-121,,,,,,,,,,,,[Provider - Account Settings] - The backend validation message for invalid characters is not treated in the frontend
+Bug,REP-250,15561,Done,5400,,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,,,,,,REP-121,,,,,,,,,,,,[Provider - Account Settings] - UI Issues
+Bug,REP-260,15576,Done,58500,,,,Martin Nieves,712020:b1aab85d-227e-4049-9918-b8f16a4365e2,,,,,,,REP-241,,,,,,,,,,,,,,,,,[Provider - Add Product] - The required fields are not being validated.
+Bug,REP-259,15573,Done,59400,,,,Martin Nieves,712020:b1aab85d-227e-4049-9918-b8f16a4365e2,,,,,,,REP-159,,,,,,,,,,,,,,,,,[Provider - Add Service] - It is not possible to add a service since an error 400 is sent when clicking on the Save button
+Bug,REP-291,15761,Done,4500,,,,Cris Suther,629e2728d442e600684070f8,,,,,,,,,,,,,,,,,,,,,,,,[Provider - Add Service] - It is possible to create the same service more than once
+Bug,REP-257,15571,Done,1800,,,,Martin Nieves,712020:b1aab85d-227e-4049-9918-b8f16a4365e2,,,,,,,REP-159,,,,,,,,,,,,,,,,,[Provider - Add Service] - No validation message is displayed when the required fields are empty
+Bug,REP-258,15572,Done,59400,,,,Martin Nieves,712020:b1aab85d-227e-4049-9918-b8f16a4365e2,,,,,,,REP-159,,,,,,,,,,,,,,,,,[Provider - Add Service] - The service category cannot be selected since the filter is being displayed disabled
+Bug,REP-275,15627,Done,4800,,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,,,,,,,,,,,,,,,,,,[Provider - Delete Service] - The service is deleted but the message and the Delete view is not closed
+Bug,REP-279,15690,Done,11700,,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,REP-160,,,,,,,,,,,,,,,,,"[Provider - Duplicate Service] - When a service is being duplicated, the fields of the service are not loading the previous information."
+Bug,REP-263,15596,Done,,,,,Martin Nieves,712020:b1aab85d-227e-4049-9918-b8f16a4365e2,,,,,,,REP-242,,,,,,,,,,,,,,,,,"[Provider - Edit Product] - It is not possible to edit the category field, it remains disabled."
+Bug,REP-296,15771,Done,8700,,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,REP-160,,,,,,,,,,,,,,,,,"[Provider - Edit Service] - After clearing no required fields and saving, the value is not erased"
+Bug,REP-294,15769,Done,5100,,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,REP-160,,,,,,,,,,,,,,,,,[Provider - Edit Service] - The religious subcategory is not saving the edited sub-options
+Bug,REP-277,15681,Done,44100,,,,Martin Nieves,712020:b1aab85d-227e-4049-9918-b8f16a4365e2,REP-290,,,,,,REP-160,,,,,,,,,,,,,,,,,[Provider - Edit service] - The service data is not loaded when user select edit
+Bug,REP-278,15689,Done,30300,,,,,,,,,,,,REP-160,,,,,,,,,,,,,,,,,"[Provider - Edit Service] - When a service is being edited, the subcategory field is not displayed."
+Bug,REP-295,15770,To Do,900,,,,Claudio Uslenghi,557058:2129d54f-e8fa-4d42-920c-acde714624a8,,,,,,,,,,,,REP-160,,,,,,,,,,,,"[Provider - Edit Service] - When changing the subcategory transportation the field ""About this service"" changes the name"
+Bug,REP-290,15760,Done,900,,,,Cris Suther,629e2728d442e600684070f8,,,,,,,REP-277,,,,,,,,,,,,,,,,,[Provider - edit service] - when edit is not saving the subcategory
+Bug,REP-293,15763,Done,19200,,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,,,,,,REP-209,,,,,,,,,,,,[Provider - Plans - List plans] - The services and products displayed in the plan are not coming in the correct order
+Bug,REP-333,15832,Done,16200,,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,,,,,,REP-212,,,,,,,,,,,,[Provider - Plans - Preview plan] UI Issues
+Bug,REP-361,15924,Done,18000,,,,Pablo Pietraroia,6231e2308c349300687c6448,,,,,,,REP-173,,,,,,,,,,,,,,,,,"[Provider - Profile changes] - Issues in the ""Gallery photo"" field"
+Bug,REP-360,15923,Done,9600,,,,Pablo Pietraroia,6231e2308c349300687c6448,,,,,,,,,,,,REP-173,,,,,,,,,,,,[Provider - Profile changes] - UI Issues
+Story,REP-424,16028,Done,14400,240,,,Pablo Pietraroia,6231e2308c349300687c6448,REP-381,REP-423,,,,,,,,,REP-363,,,,,,,,,,,,,[Provider - profile] - connect with google maps NEW Design
+Bug,REP-453,16069,To Do,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,[Provider - Profile] - The religions/cultures by default are being sent in the religionsOther/culturesOther parameters
+Bug,REP-380,15955,Done,2700,,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,,,,,,,,,,,,,,,,,,"[Provider - Services state] - When changing the state of a specific service, it changes the state of the services on the Burial Methods list only"
+Bug,REP-272,15612,Done,900,,,,,,,,,,,,,,,,,,,,,,,,,,,,,[Provider - Subscription form] - Some fields with incorrect format are not being validated
+Bug,REP-270,15610,To Do,900,,,,Tyler Stern,712020:6929c4e1-99ed-4fd8-a1e7-6cfe0cdbfc31,,,,,,,,,,,,REP-34,,,,,,,,,,,,[Provider - Subscription Form] - The State dropdown filter grows when the user scrolls down
+Bug,REP-271,15611,To Do,900,,,,Tyler Stern,712020:6929c4e1-99ed-4fd8-a1e7-6cfe0cdbfc31,,,,,,,,,,,,REP-34,,,,,,,,,,,,[Provider - Subscription form] - UI Issues
+Bug,REP-282,15737,To Do,900,,,,,,,,,,,,,,,,,REP-162,,,,,,,,,,,,[Provider - Update the Service state] - The service moves to a different position in the list after changing the state and logging out/logging in again
+Bug,REP-230,15532,Done,4500,,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,,,,,,REP-157,,,,,,,,,,,,[Provider landing page - Mobile] Icon alignment different in mobile vs desktop
+Bug,REP-182,15477,Done,5400,,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,,,,,,REP-157,,,,,,,,,,,,"[Provider landing page - Mobile] Incorrect image displayed in the ""Get Clients"" section"
+Bug,REP-179,15474,Done,58800,,,,Martin Nieves,712020:b1aab85d-227e-4049-9918-b8f16a4365e2,,,,,,,,,,,,REP-157,,,,,,,,,,,,"[Provider Landing page - Mobile] The ""Become a Provider"" button is not displayed in the header."
+Bug,REP-183,15478,Done,6300,,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,,,,,,REP-157,,,,,,,,,,,,"[Provider landing page - Mobile] The ""Get Started"" button in the Verified section is not properly centered"
+Bug,REP-181,15476,Done,4800,,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,,,,,,REP-157,,,,,,,,,,,,[Provider landing page - Mobile] The bulleted list is not properly aligned
+Bug,REP-180,15475,Done,5700,,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,,,,,,REP-157,,,,,,,,,,,,[Provider landing page - Mobile] The cards displayed in the carousel are not properly centered when they are sliding
+Bug,REP-184,15486,Done,6300,,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,,,,,,REP-157,,,,,,,,,,,,[Provider landing page] In some Samsung models there are different problems
+Bug,REP-177,15472,Done,3600,,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,,,,,,REP-101,,,,,,,,,,,,"[Provider landing page] The ""verified"" word should not have capital letters"
+Bug,REP-178,15473,Done,3300,,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,,,,,,REP-101,,,,,,,,,,,,[Provider Landing page] The email contact in the footer is not correct
+Bug,REP-381,15957,Done,17100,,,,Pablo Pietraroia,6231e2308c349300687c6448,,,,,,,REP-363,REP-424,,,,,,,,,,,,,,,,[Provider Profile changes - Connect with Google Maps] - The validation is only done in the input and is missing in the button
+Bug,REP-251,15562,Done,3600,,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,,,,,,,,,,,,,,,,,,[Provider Profile] - The Business Name is automatically deleted when changing the address in the Business address field
+Bug,REP-233,15535,Done,6240,,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,,,,,,REP-84,,,,,,,,,,,,[Provider Profile] - The profile information of a Provider is displayed after loging in to platform with a different Provider credentials
+Bug,REP-232,15534,Done,,,,,,,,,,,,,,,,,,REP-84,,,,,,,,,,,,"[Provider Profile] The Preview of the profile is not displaying the proper info, a data mock is shown"
+Story,REP-423,16027,Done,3600,,,,Mateo Carriquí,620794148df9a2007190078b,,,,,,,REP-424,,,,,,,,,,,,,,,,,[Provider] - Search place by name and address in Google places
+Story,REP-203,15505,To Do,,21600,,,,,,,,,,,,,,,,,,,,,,,,,,,,[Provider] [Front] Connect Stripe Connect Account
+Story,REP-204,15506,To Do,,28800,,,,,,,,,,,,,,,,,,,,,,,,,,,,[Provider] [Front] Connect Stripe Connect Account -Integration with backend
+Story,REP-205,15507,To Do,,21600,,,,,,,,,,,,,,,,,,,,,,,,,,,,[Provider] [Front] Extend service request flow
+Story,REP-133,15420,To Do,,28800,,,,,,,,,,,,,,,,,,,,,,,,,,,,[Provider] Allow the admin to edit products as a provider
+Story,REP-134,15421,To Do,,28800,,,,,,,,,,,,,,,,,,,,,,,,,,,,[Provider] Allow the admin to edit services as a provider
+Story,REP-350,15863,To Do,900,57600,need-refinement,,Claudio Uslenghi,557058:2129d54f-e8fa-4d42-920c-acde714624a8,,,,,,,,,REP-438,REP-447,,,,,,,,,,,,,,[Provider] Company - Add/Archive/upload products for admin application
+Story,REP-447,16061,In Progress,,57600,,,Mateo Carriquí,620794148df9a2007190078b,,,,,,,,,,,REP-350,,,,,,,,,,,,,[Provider] Company List/demote/promote for admin application
+Story,REP-330,15828,To Do,,14400,,,,,,,,,,,,,,,,,,,,,,,,,,,,[Provider] Create provider
+Story,REP-331,15829,To Do,,14400,,,,,,,,,,,,,,,,,,,,,,,,,,,,[Provider] Delete
+Story,REP-332,15830,To Do,,28800,,,,,,,,,,,,,,,,,,,,,,,,,,,,[Provider] Edit Provider
+Story,REP-451,16065,Done,3600,,,,Mateo Carriquí,620794148df9a2007190078b,,,,,,,,,,,,,,,,,,,,,,,,[Provider] Include defaultVariant in GET Plan endpoint
+Story,REP-131,15418,To Do,,28800,,,,,,,,,,,,,,,,,,,,,,,,,,,,"[Provider] List provider, demote and promote"
+Bug,REP-143,15430,Done,14400,,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,,,,,,,,,,,,,,,,,,"[Provider] Login - The ""Remember me"" option is not remembering the credentials"
+Bug,REP-142,15429,Done,12600,,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,,,,,,,,,,,,,,,,,,"[Provider] Login - When the Provider is logged in, the user avatar is not displayed in the Profile view"
+Story,REP-320,15818,To Do,,43200,,,,,,,,,,,,,,,,,,,,,,,,,,,,[Provider] Upload products CSV for one provider
+Story,REP-321,15819,To Do,,36000,,,,,,,,,,,,,,,,,,,,,,,,,,,,[Provider] Upload products CSV in bulk
+Story,REP-150,15437,To Do,,72000,Improvement,need-refinement,,,,,,,,,,,REP-314,,,,,,,,,,,,,,,[Resource] Add content
+Story,REP-151,15439,In Progress,,57600,Improvement,need-refinement,Alejandro Barrios,629e27284e1a640070c27530,,,,,,,,,,,,,,,,,,,,,,,,[Resource] APIs for content management
+Story,REP-315,15813,To Do,,14400,,,,,,,,,,,,,,,,,,,,,,,,,,,,[Resource] Delete content
+Story,REP-314,15812,To Do,,43200,Improvement,need-refinement,,,,,,,,,,,,,REP-150,,,,,,,,,,,,,[Resource] Edit/Duplicate content
+Story,REP-149,15436,To Do,,36000,Improvement,need-refinement,,,,,,,,,,,,,,,,,,,,,,,,,,[Resource] List content
+Story,REP-317,15815,To Do,,57600,,,,,,,,,,,,,,,,,,,,,,,,,,,,[Resource] Preview content
+Story,REP-289,15759,To Do,197100,,Improvement_notin_CR_and_EST,,Claudio Uslenghi,557058:2129d54f-e8fa-4d42-920c-acde714624a8,,,,,,,,,,,,,,,,,,,,,,,,[Service] Update service business rules
+Story,REP-341,15843,To Do,,28800,,,,,,,,,,,,,,,,,,,,,,,,,,,,[User] Add user
+Story,REP-343,15845,To Do,,14400,,,,,,,,,,,,,,,,,,,,,,,,,,,,[User] Delete
+Story,REP-342,15844,To Do,,21600,,,,,,,,,,,,,,,,,,,,,,,,,,,,[User] Edit user
+Story,REP-340,15842,To Do,,28800,,,,,,,,,,,,,,,,,,,,,,,,,,,,[User] List users
+Story,REP-345,15847,Done,87300,43200,Improvement_cu,,Alejandro Barrios,629e27284e1a640070c27530,,,,,,,,,,,,,,,,,,,,,,,,[User] User CRUD
+Story,REP-344,15846,To Do,,21600,,,,,,,,,,,,,,,,,,,,,,,,,,,,Account Settings
+Story,REP-125,15412,Done,29700,21600,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,,,,,,,,REP-253,REP-254,REP-255,,,,,,,,Account Settings
+Story,REP-121,15408,Done,25800,21600,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,,,,,,,,REP-248,REP-250,REP-249,REP-253,,,,,,,Account Settings
+Story,REP-266,15605,Done,21600,21600,,,Mateo Carriquí,620794148df9a2007190078b,,,,,,,,,,,,,,,,,,,,,,,,Add paginations and order to providers product list
+Story,REP-147,15434,To Do,,,Improvement_notin_CR_and_EST,need-refinement,,,,,,,,,,,,,,,,,,,,,,,,,,Add reCAPTCHA to avoid brute force attacks
+Story,REP-109,15394,To Do,,10800,Improvement_notin_CR_and_EST,,,,,,,,,,,,,,,,,,,,,,,,,,,Add Scroll to WHO WE ARE section
+Story,REP-264,15603,Done,57600,21600,,,Gonzalo Torterolo,5b10189cba20a25bfcacf8db,,,,,,,,,,,,,,,,,,,,,,,,Add variants to product list endpoint
+Story,REP-427,16037,To Do,,14400,Improvement_cu,,Mateo Carriquí,620794148df9a2007190078b,,,,,,,,,,,REP-346,,,,,,,,,,,,,Admin - Email Notifications
+Story,REP-346,15848,Done,14400,14400,Improvement_cu,,Mateo Carriquí,620794148df9a2007190078b,,,,,,,,,REP-427,,,,,,,,,,,,,,,Admin Account Settings BACK
+Story,REP-226,15528,To Do,,21600,,,,,,,,,,,,,,,,,,,,,,,,,,,,Analytics
+Story,REP-68,15353,Done,81600,43200,,,Cris Suther,629e2728d442e600684070f8,,,,,,,,,,,,,,,,,,,,,,,,APIs for client authentication
+Story,REP-66,15351,Done,900,72000,,,Cris Suther,629e2728d442e600684070f8,,,,,,,,,,,,,,,,,,,,,,,,APIs for client registration
+Story,REP-70,15355,Done,81900,28800,,,Gonzalo Torterolo,5b10189cba20a25bfcacf8db,,,,,,,REP-77,,,,,,,,,,,,,,,,,APIs for provider authentication
+Story,REP-69,15354,Done,36900,28800,,,Gonzalo Torterolo,5b10189cba20a25bfcacf8db,,,,,,,,,,,,,,,,,,,,,,,,APIs for provider registration
+Story,REP-37,15319,Done,106200,28800,,,Cris Suther,629e2728d442e600684070f8,,,,,,,,,,,,,,,,,,,,,,,,Application setup
+Story,REP-35,15317,Done,18000,21600,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,,,,,,,,,,,,,,,,,,Application setup
+Story,REP-25,15307,Done,28800,28800,,,Federico Alvarez,5d56ea7ec6b9320d9ea5ebf3,,,,,,,,,,,,,,,,,,,,,,,,Application setup
+Story,REP-153,15442,Done,14400,28800,,,Federico Alvarez,5d56ea7ec6b9320d9ea5ebf3,,,,,,,,,,,,,,,,,,,,,,,,Application setup - ADMIN Dashboard
+Story,REP-235,15537,Done,72000,28800,Improvement,,Gonzalo Torterolo,5b10189cba20a25bfcacf8db,,,,,,,REP-234,,,,,,,,,,,,,,,,,Apply for Verification Flow [backend]
+Story,REP-234,15536,Done,63000,57600,Improvement,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,REP-235,,,,,,,,,,,,,,,,,,,,,,,Apply for Verification Flow [frontend]
+Story,REP-16,15298,Done,25200,64800,,,Cris Suther,629e2728d442e600684070f8,,,,,,,,,,,,,,,,,,,,,,,,Architecture diagram - C4 Model 
+Story,REP-97,15382,Done,10800,28800,,,Gonzalo Torterolo,5b10189cba20a25bfcacf8db,,,,,,,,,,,,,,,,,,,,,,,,Authorization ACL
+Story,REP-50,15335,Done,7200,14400,,,Gonzalo Torterolo,5b10189cba20a25bfcacf8db,,,,,,,,,,,,,,,,,,,,,,,,AWS - Set  up Provider web page DEV
+Story,REP-23,15305,Done,20700,36000,,,Gonzalo Torterolo,5b10189cba20a25bfcacf8db,,,,,,,,,,,,,,,,,,,,,,,,AWS - Set up API DEV
+Story,REP-49,15334,To Do,,36000,,,,,,,,,,,,,,,,,,,,,,,,,,,,AWS - Set up API UAT
+Story,REP-22,15304,Done,10800,14400,,,Gonzalo Torterolo,5b10189cba20a25bfcacf8db,,,,,,,,,REP-48,,,,,,,,,,,,,,,AWS - Set up Client web page DEV
+Story,REP-48,15333,To Do,,14400,,,,,,,,,,,,,REP-99,,REP-22,,,,,,,,,,,,,AWS - Set up Client web page UAT
+Story,REP-24,15306,Done,13500,18000,,,Gonzalo Torterolo,5b10189cba20a25bfcacf8db,,,,,,,,,,,,,,,,,,,,,,,,AWS - Set up Database DEV
+Story,REP-47,15332,To Do,,18000,,,,,,,,,,,,,,,,,,,,,,,,,,,,AWS - Set up Database UAT
+Story,REP-99,15384,To Do,,14400,,,,,,,,,,,,,,,REP-48,,,,,,,,,,,,,AWS - Set up Provider web page UAT
+Story,REP-33,15315,Done,26700,18000,,,Federico Alvarez,5d56ea7ec6b9320d9ea5ebf3,,,,,,,,,,,,,,,,,,,,,,,,Become a service provider section
+Story,REP-54,15339,Done,22800,18000,,,Federico Alvarez,5d56ea7ec6b9320d9ea5ebf3,,,,,,,,,,,,,,,,,,,,,,,,Become a Verified
+Story,REP-32,15314,Done,22500,18000,,,Federico Alvarez,5d56ea7ec6b9320d9ea5ebf3,,,,,,,,,,,,,,,,,,,,,,,,Big America map section
+Story,REP-132,15419,To Do,,57600,remove-not-needed,,,,,,,,,,,,,,,,,,,,,,,,,,,Categories Management
+Story,REP-91,15376,Done,54000,28800,,,Cris Suther,629e2728d442e600684070f8,,,,,,,,,,,,,,,,,,,,,,,,Client Favorite Providers CRUD
+Story,REP-75,15360,Done,226800,57600,,,Gonzalo Torterolo,5b10189cba20a25bfcacf8db,REP-92,,,,,,,,,,,,,,,,,,,,,,,Client Plans CRUD
+Story,REP-214,15516,To Do,,14400,,,,,REP-213,,,,,,,,,,,,,,,,,,,,,,,Clients - Accept and decline client cases
+Story,REP-213,15515,To Do,,28800,,,,,,,,,,,REP-214,,,,,,,,,,,,,,,,,Clients - list cases
+Story,REP-215,15517,To Do,,25200,,,,,,,,,,,,,,,,,,,,,,,,,,,,Clients - Preview client request
+Story,REP-224,15526,To Do,,50400,,,,,,,,,,,,,,,,,,,,,,,,,,,,Compare plans - Allow the user to compare 3 plans
+Story,REP-225,15527,To Do,,43200,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Compare plans - share, print, and export the comparison."
+Story,REP-223,15525,To Do,,21600,,,,,,,,,,,,,,,,,,,,,,,,,,,,Contact provider
+Story,REP-21,15303,Done,2700,3600,,,Tyler Stern,712020:6929c4e1-99ed-4fd8-a1e7-6cfe0cdbfc31,,,,,,,,,,,,,,,,,,,,,,,,Create AWS account
+Story,REP-108,15393,Done,7200,7200,,,martin,712020:5fdc5db8-f007-4ec3-8446-f731c2497523,,,,,,,,,,,,,,,,,,,,,,,,Create subscription form in HubSpot
+Bug,REP-246,15555,Done,36000,,,,Gonzalo Torterolo,5b10189cba20a25bfcacf8db,,,,,,,,,,,,,,,,,,,,,,,,Create update profile endpoint (for both provider and client)
+Story,REP-420,16022,To Do,,,Improvement_notin_CR_and_EST,,Claudio Uslenghi,557058:2129d54f-e8fa-4d42-920c-acde714624a8,,,,,,,REP-410,,,,REP-410,,,,,,,,,,,,,"Custom Plan - Add Quantity field to flowers, Caskets/Urns and Transportation"
+Story,REP-410,15997,To Do,,,Improvement_notin_CR_and_EST,,Claudio Uslenghi,557058:2129d54f-e8fa-4d42-920c-acde714624a8,REP-420,,,,,,,,REP-420,,,,,,,,,,,,,,,"Custom Plan - Add Quantity field to flowers, Caskets/Urns and Transportation"
+Story,REP-191,15493,Done,18000,14400,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,,,,,,,,,,,,,,,,,,Custom Plan - Final step
+Story,REP-165,15454,Done,62100,57600,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,,,,,,,,,,,,,,,,,,Custom Plan - layout
+Story,REP-166,15455,BLOCKED,,25200,Add_endpoints_to_use,need-refinement,,,,,,,,,REP-168,,,,,,,,,,,,,,,,,Custom Plan - Step 1 General
+Story,REP-167,15456,Done,3600,18000,,,Martin Nieves,712020:b1aab85d-227e-4049-9918-b8f16a4365e2,REP-280,,,,,,,,,,,,,,,,,,,,,,,Custom Plan - Step 2 Customs
+Story,REP-185,15487,Done,17100,14400,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,,,,,,,,REP-265,,,,,,,,,,Custom Plan - Step 3 Venue
+Story,REP-189,15491,Done,101700,72000,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,REP-307,REP-308,REP-309,REP-310,,,,,,,,,,REP-306,REP-347,,,,,,,,,Custom Plan - Step 4 Caskets and Urns
+Story,REP-187,15489,Done,3600,14400,,,Martin Nieves,712020:b1aab85d-227e-4049-9918-b8f16a4365e2,,,,,,,,,,,,,,,,,,,,,,,,Custom Plan - Step 5 Added Care
+Story,REP-190,15492,Done,63900,57600,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,REP-337,REP-336,,,,,,,,,,,,REP-338,,,,,,,,,,Custom Plan - Step 5 Flowers
+Story,REP-186,15488,Done,36000,21600,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,REP-281,,,,,,,,,,,,,,,,,,,,,,,Custom Plan - Step 6 Transportation
+Story,REP-396,15982,To Do,,,Improvement_notin_CR_and_EST,,Claudio Uslenghi,557058:2129d54f-e8fa-4d42-920c-acde714624a8,,,,,,,,,,,,,,,,,,,,,,,,Custom Plan - Step 8 - additional products
+Story,REP-188,15490,Done,35100,14400,Add_endpoints_to_use,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,REP-382,REP-383,REP-392,,,,,,,,,,,REP-393,REP-394,,,,,,,,,Custom Plan - Step 8 Extras
+Story,REP-334,15835,Done,29400,28800,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,,,,,,,,,,,,,,,,,,Custom Plan - Update custom plan steps order and labels
+Story,REP-313,15800,To Do,,72000,,,Claudio Uslenghi,557058:2129d54f-e8fa-4d42-920c-acde714624a8,,,,,,,REP-312,,,,,,,,,,,,,,,,,Dashboard - [Backend]
+Story,REP-311,15798,To Do,,86400,,,Claudio Uslenghi,557058:2129d54f-e8fa-4d42-920c-acde714624a8,,,,,,,REP-312,,REP-312,,,,,,,,,,,,,,,Dashboard [Frontend]
+Story,REP-312,15799,To Do,,28800,,,Claudio Uslenghi,557058:2129d54f-e8fa-4d42-920c-acde714624a8,REP-311,REP-313,,,,,,,,,REP-311,,,,,,,,,,,,,Dashboard [Integration]
+Story,REP-20,15302,Done,61200,72000,,,Gonzalo Torterolo,5b10189cba20a25bfcacf8db,,,,,,,,,,,,,,,,,,,,,,,,Database modeling
+Story,REP-119,15406,Done,,,need-refinement,,,,,,,,,,,,,,,,,,,,,,,,,,,Decide CMS implementation
+Story,REP-18,15300,Done,17100,36000,,,Gonzalo Torterolo,5b10189cba20a25bfcacf8db,,,,,,,,,,,,,,,,,,,,,,,,Deployment Diagram
+Story,REP-139,15426,To Do,3600,7200,,,,,,,,,,,,,REP-239,,,,,,,,,,,,,,,Documentation
+Story,REP-239,15547,Done,34200,7200,,,Cris Suther,629e2728d442e600684070f8,,,,,,,,,,,REP-139,,,,,,,,,,,,,Documentation Update swagger descriptions
+Subtask,REP-395,15981,Done,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,E2E Tests for Admin User CRUD
+Story,REP-71,15356,To Do,,28800,,,,,,,,,,,,,,,,,,,,,,,,,,,,Email Integration
+Story,REP-128,15415,To Do,900,14400,need-refinement,,,,,,,,,,,,,,,,,,,,,,,,,,,Email templates
+Story,REP-126,15413,To Do,900,36000,,,,,,,,,,,,,,,,,,,,,,,,,,,,Email templates for auth
+Story,REP-127,15414,To Do,1800,36000,,,,,,,,,,,,,,,,,,,,,,,,,,,,Email templates to contact provider
+Story,REP-98,15383,Done,14400,28800,,,Gonzalo Torterolo,5b10189cba20a25bfcacf8db,,,,,,,,,,,,,,,,,,,,,,,,Error management
+Bug,REP-335,15836,Done,,,,,Cris Suther,629e2728d442e600684070f8,,,,,,,,,,,,,,,,,,,,,,,,Error on update plan name with same name
+Story,REP-51,15336,Done,48300,50400,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,,,,,,,,,,,,,,,,,,First section
+Story,REP-29,15311,Done,49200,43200,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,,,,,,,,,,,,,,,,,,First section
+Bug,REP-256,15570,Done,36000,,,,Cris Suther,629e2728d442e600684070f8,,,,,,,,,,,,,,,,,,,,,,,,Fix Transportation Service
+Story,REP-124,15411,To Do,,7200,,,,,REP-78,,,,,,,,,,,,,,,,,,,,,,,Forgot and reset password
+Story,REP-78,15363,To Do,,21600,,,,,,,,,,,REP-124,,,,,,,,,,,,,,,,,Forgot and Reset password
+Story,REP-110,15395,Done,57600,28800,,,Pablo Pietraroia,6231e2308c349300687c6448,REP-429,REP-430,REP-432,REP-433,REP-434,,,,,,,REP-428,,REP-431,REP-435,,,,,,REP-436,,,Funeral Home - Client [MOBILE] [DESKTOP]
+Story,REP-440,16051,Done,,,,,Mateo Carriquí,620794148df9a2007190078b,,,,,,,,,,,,,,,,,,,,,,,,Get public services by company
+Story,REP-67,15352,Done,36000,43200,,,Gonzalo Torterolo,5b10189cba20a25bfcacf8db,,,,,,,,,,,,,,,,,,,,,,,,Google Account and Repose Account reconciliation
+Story,REP-129,15416,Done,11700,43200,,,Pablo Pietraroia,6231e2308c349300687c6448,,,,,,,,,,,,,,REP-437,,,,,,,,,,Layout and components
+Story,REP-62,15347,Done,15300,43200,,,Federico Alvarez,5d56ea7ec6b9320d9ea5ebf3,,,,,,,,,,,,,,,,,,,,,,,,List resources with pagination
+Story,REP-123,15410,Done,34200,21600,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,REP-236,,,,,,,,,,,,,,,,,Login
+Story,REP-77,15362,Done,74100,57600,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,REP-70,,,,,,,,,,,,,,,,,,,,,,,Login
+Story,REP-130,15417,Done,28800,14400,,,Martin Nieves,712020:b1aab85d-227e-4049-9918-b8f16a4365e2,REP-96,,,,,,,,,,,,,,,,,,,,REP-445,REP-446,,Login [Frontend] [Integration] 
+Story,REP-111,15398,To Do,,,Improvement_cu,need-refinement,,,,,,,,,,,,,,,,,,,,,,,,,,Manage cookie policy
+Story,REP-411,15998,To Do,,,Improvement_notin_CR_and_EST,need-refinement,Claudio Uslenghi,557058:2129d54f-e8fa-4d42-920c-acde714624a8,,,,,,,REP-364,,,,,,,,,,,,,,,,,My funeral plans - add active plan section
+Story,REP-221,15523,To Do,,10800,,,,,,,,,,,,,,,,,,,,,,,,,,,,My funeral plans - delete plan
+Story,REP-219,15521,To Do,,86400,,,,,,,,,,,,,,,,,,,,,,,,,,,,My funeral plans - edit plan custom plan
+Story,REP-216,15518,Done,16200,,,,Pablo Pietraroia,6231e2308c349300687c6448,,,,,,,,,REP-364,,,,,,,,,,,,,,,My funeral plans - Layout
+Story,REP-364,15931,To Do,,57600,,,,,REP-411,,,,,,,,,,REP-216,,,,,,,,,,,,,My funeral plans - Layout  integration
+Story,REP-220,15522,In Progress,,43200,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,,,,,,,,,,,,,,,,,,My funeral plans - Order plan and contact provider. 
+Story,REP-218,15520,Done,45000,21600,,,Pablo Pietraroia,6231e2308c349300687c6448,,,,,,,,,,,,REP-425,,,,,,,,,,,,My funeral plans - saved plans
+Story,REP-217,15519,Done,30600,18000,,,Pablo Pietraroia,6231e2308c349300687c6448,,,,,,,,,,,,,,,,,,,,,,,,My funeral plans - Saved provider grid
+Story,REP-222,15524,To Do,,57600,,,,,,,,,,,,,,,,,,,,,,,,,,,," My funeral plans - Share plan, print and export"
+Story,REP-261,15584,Done,196200,21600,Add_endpoints_to_use,,Martin Nieves,712020:b1aab85d-227e-4049-9918-b8f16a4365e2,REP-414,REP-415,REP-416,REP-417,REP-419,REP-418,,,,,REP-210,,,REP-413,,,,,,,,,,Plans - Add plan - with products
+Story,REP-210,15512,Done,115200,50400,Add_endpoints_to_use,,Martin Nieves,712020:b1aab85d-227e-4049-9918-b8f16a4365e2,REP-362,,,,,,,,REP-261,,,,,,,,,,,,,,,Plans - Add plan - without products
+Story,REP-408,15994,Done,,14400,Add_endpoints_to_use,,Martin Nieves,712020:b1aab85d-227e-4049-9918-b8f16a4365e2,,,,,,,,,,,REP-262,,,,,,,,,,,,,Plans - Create/Edit plan - product variants image
+Story,REP-262,15585,Done,270000,14400,Add_endpoints_to_use,,Martin Nieves,712020:b1aab85d-227e-4049-9918-b8f16a4365e2,,,,,,,,,REP-408,,REP-211,,,,,,,,,,,,,Plans - Edit plan - with products
+Story,REP-211,15513,Done,60300,43200,Add_endpoints_to_use,,Martin Nieves,712020:b1aab85d-227e-4049-9918-b8f16a4365e2,REP-365,REP-366,,,,,,,REP-262,,,,,,,,,,,,,,,Plans - Edit plan- without products 
+Story,REP-209,15511,Done,31500,28800,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,,,,,,,,REP-293,,,,,,,,,,Plans - list plans
+Story,REP-212,15514,Done,30600,28800,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,,,,,,,,REP-333,,,,,,,,,,Plans - Preview plan
+Story,REP-86,15371,Done,27600,43200,,,Federico Alvarez,5d56ea7ec6b9320d9ea5ebf3,,,,,,,,,,,,,,,,,,,,,,,,Preview Funeral Home - Carousel images and display map
+Story,REP-87,15372,To Do,0,21600,Add_endpoints_to_use,,,,,,,,,,,,,,,,,,,,,,,,,,,Preview Funeral Home - Grid with images
+Story,REP-88,15373,Done,15900,21600,,,Federico Alvarez,5d56ea7ec6b9320d9ea5ebf3,,,,,,,,,,,,,,,,,,,,,,,,Preview Funeral Home - Personalize an existing plan section
+Story,REP-89,15374,To Do,,21600,,,,,,,,,,,,,,,,,,,,,,,,,,,,Preview Funeral Home - Reviews
+Story,REP-90,15375,To Do,,28800,,,,,,,,,,,,,,,,,,,,,,,,,,,,Preview Funeral Home - Similar providers
+Story,REP-85,15370,Done,23700,43200,,,Federico Alvarez,5d56ea7ec6b9320d9ea5ebf3,,,,,,,,,,,,,,,,,,,,,,,,"Preview Funeral Home - Title, about us, Service, and close button"
+Story,REP-120,15407,To Do,,57600,need-refinement,,,,,,,,,,,,,,,,,,,,,,,,,,,Print export share options
+Story,REP-44,15328,To Do,,12600,,,,,,,,,,,,,,,,,,,,,,,,,,,,Privacy Policy page
+Story,REP-358,15916,Done,8100,,Improvement_notin_CR_and_EST,,Pablo Pietraroia,6231e2308c349300687c6448,,,,,,,,,,,,,,,,,,,,,,,,Product - Change status to active or draft
+Story,REP-379,15954,Done,33300,,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,REP-409,,,,,,,,,,,,,,,,,,,,,,,Product - delete product variants
+Story,REP-74,15359,Done,11400,57600,,,Gonzalo Torterolo,5b10189cba20a25bfcacf8db,,,,,,,,,,,,,,,,,,,,,,,,Product and Service Categories read API
+Story,REP-193,15495,Done,81900,43200,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,REP-369,REP-370,REP-371,,,,,,REP-241,,,,,REP-372,,,,,,,,,,Products - Add product - with variants
+Story,REP-241,15549,Done,61200,28800,,,Martin Nieves,712020:b1aab85d-227e-4049-9918-b8f16a4365e2,REP-260,,,,,,,,,,REP-193,,,,,,,,,,,,,Products - Add product -General information - without variants
+Story,REP-359,15922,Done,14400,,,,Mateo Carriquí,620794148df9a2007190078b,,,,,,,,,,,,,,,,,,,,,,,,Products - Add server-side pagination to public product list
+Story,REP-196,15498,Done,3600,10800,Add_endpoints_to_use,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,,,,,,,,,,,,,,,,,,Products - Delete product
+Story,REP-197,15499,To Do,,3600,remove-not-needed,,,,,,,,,,,,,,,,,,,,,,,,,,,Products - Duplicate product
+Story,REP-194,15496,Done,53100,21600,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,REP-374,REP-375,,,,,,,REP-242,,,,,,,,,,,,,,,Products - Edit product - with variants
+Story,REP-242,15550,Done,30600,21600,,,Martin Nieves,712020:b1aab85d-227e-4049-9918-b8f16a4365e2,REP-263,,,,,,,,,,REP-194,,,,,,,,,,,,,Products - Edit product -General information - without variants
+Story,REP-243,15552,Done,31500,14400,,,Pablo Pietraroia,6231e2308c349300687c6448,REP-373,,,,,,,,,,REP-192,,,,,,,,,,,,,Products - list products - with variants
+Story,REP-192,15494,Done,18900,14400,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,,,REP-243,,,,,,,,,,,,,,,Products - list products - without variants
+Story,REP-195,15497,To Do,,21600,,,,,,,,,,,,,,,,,,,,,,,,,,,,Products - Preview product
+Story,REP-73,15358,Done,305100,72000,,,Cris Suther,629e2728d442e600684070f8,,,,,,,,,,,,,,,,,,,,,,,,Products CRUD
+Story,REP-80,15365,Done,123600,86400,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,,,REP-84,,,,,,,,,,,,,,,Profile
+Story,REP-363,15929,Done,9900,14400,,,Pablo Pietraroia,6231e2308c349300687c6448,REP-381,,,,,,,,REP-424,,,,,,,,,,,,,,,Profile changes - connect with google maps
+Story,REP-240,15548,Done,43200,43200,Improvement,,Mateo Carriquí,620794148df9a2007190078b,,,,,,,,,,,REP-173,,,,,,,,,,,,,Profile changes [backend]
+Story,REP-173,15462,Done,77400,79200,Improvement,need-refinement,Pablo Pietraroia,6231e2308c349300687c6448,REP-361,,,,,,,,REP-240,,,,,REP-360,,,,,,,,,,Profile changes [frontend]
+Story,REP-79,15364,Done,11700,21600,,,Federico Alvarez,5d56ea7ec6b9320d9ea5ebf3,,,,,,,,,,,,,,,,,,,,,,,,Profile Layout
+Story,REP-156,15445,To Do,,,Improvement_notin_CR_and_EST,,,,,,,,,,,,,,,,,,,,,,,,,,,Provider Account Settings - verify emails
+Story,REP-95,15380,Done,54000,57600,,,Mateo Carriquí,620794148df9a2007190078b,,,,,,,REP-112,,,,,,,,,,,,,,,,,Provider Lookup and filtering
+Story,REP-421,16023,To Do,,,Improvement_notin_CR_and_EST,,,,,,,,,,,,,,REP-284,,,,,,,,,,,,,Provider Plan - Change status to active or draft
+Story,REP-284,15739,To Do,,,Improvement_notin_CR_and_EST,,,,,,,,,,,,REP-421,,,,,,,,,,,,,,,Provider Plan - Change status to active or draft
+Story,REP-276,15671,Done,118800,60,Improvement_notin_CR_and_EST,,Cris Suther,629e2728d442e600684070f8,,,,,,,,,,,,,,,,,,,,,,,,Provider Plan - Change status to active or draft
+Story,REP-286,15741,To Do,,,Improvement_notin_CR_and_EST,,,,,,,,,,,,,,,,,,,,,,,,,,,Provider Plan - Delete
+Story,REP-285,15740,To Do,,,Improvement_notin_CR_and_EST,,,,,,,,,,,,,,,,,,,,,,,,,,,Provider Plan - Delete 
+Story,REP-288,15753,Done,42300,28800,,,Cris Suther,629e2728d442e600684070f8,,,,,,,,,,,,,,,,,,,,,,,,Provider Plan - Relation Plan and Products
+Story,REP-92,15377,Done,10800,57600,,,Gonzalo Torterolo,5b10189cba20a25bfcacf8db,,,,,,,REP-75,,,,,,,,,,,,,,,,,Provider Plan Templates CRUD
+Story,REP-93,15378,Done,79200,79200,,,Gonzalo Torterolo,5b10189cba20a25bfcacf8db,,,,,,,REP-84,,,,,,,,,,,,,,,,,Provider Profile
+Bug,REP-172,15461,Done,11400,,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,,,,,,REP-84,,,,,,,,,,,,Provider Profile - The user can't selects the Closed status
+Bug,REP-171,15460,Done,26100,,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,,,,,,REP-84,,,,,,,,,,,,Provider Profile - The view on Map link is not redirecting to anywhere
+Story,REP-94,15379,Done,40500,43200,,,Cris Suther,629e2728d442e600684070f8,,,,,,,,,,,,,,,,,,,,,,,,Providers client management
+Story,REP-140,15427,To Do,,21600,need-refinement,,,,,,,,,,,,REP-157,,,,,,,,,,,,,,,Public Provider pages need to be responsive
+Story,REP-122,15409,To Do,,21600,,,,,,,,,,,,,,,,,,,,,,,,,,,,Registration
+Story,REP-76,15361,To Do,,86400,,,,,,,,,,,,,,,,,,,,,,,,,,,,Registration
+Story,REP-146,15433,Done,14400,14400,,,Gonzalo Torterolo,5b10189cba20a25bfcacf8db,,,,,,,,,,,,,,,,,,,,,,,,Remember me
+Story,REP-198,15500,To Do,,,Improvement,,,,,,,,,,,,,,,,,,,,,,,,,,,"Remove ""login was successful"" toast after logging in"
+Story,REP-170,15459,To Do,,7200,,,,,,,,,,,,,,,,,,,,,,,,,,,,Request Account Deletion
+Story,REP-169,15458,To Do,,7200,,,,,,,,,,,,,,,,,,,,,,,,,,,,Request Account Deletion
+Story,REP-100,15385,Done,41400,50400,,,Gonzalo Torterolo,5b10189cba20a25bfcacf8db,,,,,,,,,,,,,,,,,,,,,,,,Review and define products and variants
+Story,REP-65,15350,Done,17700,14400,,,Federico Alvarez,5d56ea7ec6b9320d9ea5ebf3,,,,,,,,,,,,,,,,,,,,,,,,Review the client landing page performance
+Story,REP-377,15948,In Progress,21600,21600,need-refinement,,Pablo Pietraroia,6231e2308c349300687c6448,,,,,,,,,,,REP-113,,,,,,,,,,,,,Search Result - Allow the user to hover a provider on the map [DESKTOP]
+Story,REP-113,15400,In Progress,,21600,need-refinement,,Pablo Pietraroia,6231e2308c349300687c6448,,,,,,,,,REP-377,,,,,,,,,,,,,,,Search Result - Allow the user to hover a provider on the map [MOBILE]
+Story,REP-112,15399,IN QA,59400,43200,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,REP-95,,,,,,,,REP-367,,,,,,,,,,,,,,,Search Result - filters on top [DESKTOP]
+Story,REP-367,15936,READY for QA,59400,43200,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,,,,,REP-112,,,,,,,,,,,,,Search Result - filters on top [MOBILE]
+Story,REP-104,15389,Done,24000,36000,,,Federico Alvarez,5d56ea7ec6b9320d9ea5ebf3,,,,,,,,,,,,,,,,,,,,,,,,Search result - list provider
+Story,REP-422,16026,Done,16200,,,,Mateo Carriquí,620794148df9a2007190078b,,,,,,,,,,,,,,,,,,,,,,,,Search Result - Search nearby funeral homes by latitude and longitude
+Story,REP-103,15388,Done,11700,21600,,,Federico Alvarez,5d56ea7ec6b9320d9ea5ebf3,,,,,,,,,,,,,,,,,,,,,,,,Search Results - map displaying the provider locations
+Story,REP-444,16055,To Do,,,,,Mateo Carriquí,620794148df9a2007190078b,,,,,,,,,,,,,,,,,,,,,,,,Send email Accept/Decline cases and contact provider
+Story,REP-390,15974,To Do,,,Improvement_notin_CR_and_EST,,,,,,,,,,,,,,,,,,,,,,,,,,,Service - Add Ceremony service category
+Story,REP-159,15448,Done,118800,28800,,,Martin Nieves,712020:b1aab85d-227e-4049-9918-b8f16a4365e2,REP-258,REP-257,REP-259,,,,,,,,,,,,,,,,,,,,,Service - Add service
+Story,REP-162,15451,Done,8100,3600,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,,,,,,,,REP-282,,,,,,,,,,Service - Change status to active or draft
+Story,REP-161,15450,Done,15600,14400,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,,,,,,,,,,,,,,,,,,Service - Delete service - Modal Confirmation
+Story,REP-160,15449,Done,10800,28800,,,Martin Nieves,712020:b1aab85d-227e-4049-9918-b8f16a4365e2,REP-277,REP-278,REP-279,REP-294,REP-296,,,,,,,,,REP-295,,,,,,,,,,Service - Edit
+Story,REP-158,15447,Done,57000,43200,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,,,,,,,,,,,,,,,,,,Service - List service and filter by service categories
+Story,REP-231,15533,Done,15300,,,,Cris Suther,629e2728d442e600684070f8,,,,,,,,,,,,,,,,,,,,,,,,Service Catalog
+Story,REP-72,15357,Done,206400,72000,,,Cris Suther,629e2728d442e600684070f8,,,,,,,,,,,,,,,,,,,,,,,,Services CRUD
+Story,REP-64,15349,Done,11700,57600,,,Cris Suther,629e2728d442e600684070f8,,,,,,,,,,,,,,,,,,,,,,,,Set up a CMS for the client we page
+Story,REP-63,15348,Done,36900,28800,,,Federico Alvarez,5d56ea7ec6b9320d9ea5ebf3,,,,,,,,,,,,,,,,,,,,,,,,"Show resource detail, share social networks, photo and text"
+Story,REP-34,15316,Done,13500,10800,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,,,,,,,,REP-270,REP-271,,,,,,,,,Subscription form popup
+Story,REP-96,15381,Done,1800,21600,,,Mateo Carriquí,620794148df9a2007190078b,,,,,,,REP-130,,,,,,,,,,,,,,,,,SuperAdmin Auth setup
+Story,REP-137,15424,To Do,,57600,,,,,,,,,,,,,,,,,,,,,,,,,,,,SuperAdmin CRUD Endpoints
+Story,REP-81,15366,BLOCKED,21600,12600,,,,,,,,,,,,,,,,,,,,,,,,,,,,Terms and condition page
+Story,REP-43,15327,BLOCKED,25200,12600,,,,,,,,,,,,,,,,,,,,,,,,,,,,Terms and condition page
+Story,REP-138,15425,To Do,,28800,,,,,,,,,,,,,,,,,,,,,,,,,,,,Testing
+Bug,REP-236,15538,Done,8100,,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,REP-123,,,,,,,,,,,,,,,,,,,,,,,"The Client cannot log in successfully with Google Account, an error 400 is displayed"
+Bug,REP-176,15471,To Do,900,,,,Claudio Uslenghi,557058:2129d54f-e8fa-4d42-920c-acde714624a8,,,,,,,,,,,,,,,,,,,,,,,,The validation message is not displayed after clicking for the second time the invalid credentials inserted.
+Story,REP-53,15338,Done,36900,36000,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,,,,,,,,,,,,,,,,,,Third section
+Story,REP-31,15313,Done,19200,18000,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,,,,,,,,,,,,,,,,,,Third section
+Story,REP-102,15387,Done,51300,21600,Improvement,,Martin Nieves,712020:b1aab85d-227e-4049-9918-b8f16a4365e2,,,,,,,,,,,,,,REP-237,,,,,,,,,,Update Client Landing page - copy changes
+Story,REP-152,15441,Done,50400,43200,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,,,,,,,,,,,,,,,,,,Update Client landing page to make it responsive
+Story,REP-59,15344,To Do,,1800,need-refinement,,,,,,,,,,,,,,,,,,,,,,,,,,,Update footer links
+Bug,REP-349,15853,To Do,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Update Plan preview to use the local state of the Plan(from Edit/Add)
+Story,REP-101,15386,Done,8100,7200,Improvement,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,,,,,,,,REP-177,REP-178,,,,,,,,,Update Provider Landing page - copy changes
+Story,REP-157,15446,Done,81600,21600,,,Martin Nieves,712020:b1aab85d-227e-4049-9918-b8f16a4365e2,,,,,,,,,,,REP-140,,,REP-179,REP-180,REP-181,REP-182,REP-183,REP-184,REP-230,,,,Update Provider landing page to be responsive
+Story,REP-283,15738,Done,14400,,,,Cris Suther,629e2728d442e600684070f8,,,,,,,,,,,,,,,,,,,,,,,,Update Provider plan rules
+Story,REP-36,15318,Done,9000,7200,,,Federico Alvarez,5d56ea7ec6b9320d9ea5ebf3,,,,,,,,,,,,,,,,,,,,,,,,Website Layout
+Story,REP-27,15309,Done,32400,28800,,,Federico Alvarez,5d56ea7ec6b9320d9ea5ebf3,,,,,,,,,,,,,,,,,,,,,,,,Website Layout - Footer -Desktop
+Story,REP-26,15308,Done,60900,46800,,,Ismael Francisco Moreno,6181b4a1f6da6a006a7744a3,,,,,,,,,,,,,,,,,,,,,,,,Website Layout - Header - Desktop
+Story,REP-28,15310,Done,18000,10800,,,Federico Alvarez,5d56ea7ec6b9320d9ea5ebf3,,,,,,,,,,,,,,,,,,,,,,,,Website Layout - Theme branding - Desktop
+Story,REP-52,15337,Done,15300,21600,,,Federico Alvarez,5d56ea7ec6b9320d9ea5ebf3,,,,,,,,,,,,,,,,,,,,,,,,Who we are section
+Story,REP-30,15312,Done,15300,14400,,,Federico Alvarez,5d56ea7ec6b9320d9ea5ebf3,,,,,,,,,,,,,,,,,,,,,,,,Who we are section
