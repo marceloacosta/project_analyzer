@@ -202,7 +202,7 @@ def create_visuals(assignee_summary):
 
 # Streamlit app layout
 def main():
-    st.title("Coso pa ver proyectos")
+    st.title("Dev Performance Analyzer Z")
 
     # File upload widget
     uploaded_file = st.file_uploader("Upload your CSV file", type=["csv"])
